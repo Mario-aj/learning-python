@@ -12,3 +12,6 @@ def linear_search(arr, targe):
 
 print(linear_search(my_array, 9)) # -1
 print(linear_search(my_array, 5)) # 4
+
+# built-in search function
+print(my_array.index(5))
